@@ -21,6 +21,6 @@ export class UserRepoListComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.getRepo('kamauvick');
+    this.getRepo('monicaoyugi');
   }
 }
