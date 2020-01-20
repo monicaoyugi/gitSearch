@@ -1,0 +1,17 @@
+.error{
+  height: 614px;
+  background-image: url("../../assets/404.jpg");
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+.overlay{
+  background-color: rgba(0,0,0,0.965);
+  height: inherit;
+}
+h1{
+  position: relative;
+  top: 40%;
+  font-family: system-ui,serif;
+  font-size: 100px;
+}

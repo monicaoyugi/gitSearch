@@ -1,0 +1,55 @@
+
+.jumbotron{
+  background-image: url("../../assets/bg.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.jumbotron{
+  border-radius: 0;
+}
+.contents{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.card-img{
+  height: 300px;
+  width: 300px;
+}
+
+@media (max-width: 740px) {
+
+  hr {
+    height: 0;
+    width: 0;
+  }
+
+}
+.overlay{
+  background-color: rgba(0,0,0,0.0);
+  height: inherit;
+}
+.user{
+  font-size: 30px;
+  color: black;
+}
+.gsearch{
+  font-size: 60px;
+  color: orange;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+.footer-text{
+  font-family: system-ui, serif;
+  padding-top: 20px;
+  padding-bottom:-40px;
+  color: white;
+}
+#fa-love{
+  color: red;
+  opacity: 0.7;
+}
+.fa{
+  color: red;
+}

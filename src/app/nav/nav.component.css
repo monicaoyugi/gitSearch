@@ -1,0 +1,19 @@
+.nav-links{
+  position: relative;
+  right: -75%;
+}
+.nav-links li{
+  font-weight: bolder;
+  font-family: system-ui, serif;
+  border-color: #8898aa;
+}
+.nav-links li:hover{
+  color: yellow;
+  text-decoration: underline;
+}
+.logotext{
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-weight: bolder;
+  font-size: 1.85em;
+}
+
