@@ -17,7 +17,6 @@ export class MyServiceService {
   }
 
   searchMyUser(searchTerm: string) {
-    // tslint:disable-next-line:class-name
     interface data {
       login: string;
       avatar_url: string;
@@ -28,10 +27,8 @@ export class MyServiceService {
 
     return new Promise((resolve, reject) => {
       this.user = [];
-      // tslint:disable-next-line:max-line-length
       this.http.get<data>(this._URL + searchTerm + this.token).toPromise().then(
         (results) => {
-          // @ts-ignore
           this.user.push(results);
           resolve();
         },
