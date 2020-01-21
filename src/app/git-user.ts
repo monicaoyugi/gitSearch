@@ -1,5 +1,4 @@
-export class GitUser {
-  avatar_url: any;
+export class GitUser{
   login: any;
   bio: any;
   name: any;
