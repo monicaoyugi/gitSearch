@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
+
+## Codebeat
+
+[![codebeat badge](https://codebeat.co/badges/3c7661e8-bb2b-49fe-9efb-d0270755bb27)](https://codebeat.co/projects/github-com-monicaoyugi-gitsearch-master)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -38,9 +43,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## License 
-[License] (License) 
+[License](License) 
 
-## Codebeat
 
-[![codebeat badge](https://codebeat.co/badges/3c7661e8-bb2b-49fe-9efb-d0270755bb27)](https://codebeat.co/projects/github-com-monicaoyugi-gitsearch-master)
+__Copyright (c) {2020}  Monica Oyugi.__
 
