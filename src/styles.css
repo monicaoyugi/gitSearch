@@ -22,7 +22,6 @@ body {
   line-height: 1.5;
   margin: 0;
   text-align: left;
-  /* color: #525f7f; */
   background-color: #f8f9fe;
 }
 
@@ -512,5 +511,4 @@ p {
   color: black;
   margin-top: 20px;
   margin-bottom: 40px;
-  /* font-family: 'Love Ya Like A Sister', cursive; */
 }
