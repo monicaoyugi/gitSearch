@@ -22,7 +22,7 @@ body {
   line-height: 1.5;
   margin: 0;
   text-align: left;
-  color: #525f7f;
+  /* color: #525f7f; */
   background-color: #f8f9fe;
 }
 
@@ -168,7 +168,7 @@ h5,
   font-weight: 600;
   line-height: 1.5;
   margin-bottom: .5rem;
-  color: #32325d;
+  color: #0f0f0f;
 }
 
 h2,
@@ -505,12 +505,12 @@ p {
   }
 }
  body{
-  background-color: #172b4d;
+  background-color: #a6bbe4;
 }
 .gsearch{
   font-size: 60px;
-  color: orange;
+  color: black;
   margin-top: 20px;
   margin-bottom: 40px;
-  font-family: 'Love Ya Like A Sister', cursive;
+  /* font-family: 'Love Ya Like A Sister', cursive; */
 }

@@ -8,9 +8,11 @@
   border-color: #8898aa;
 }
 .nav-links li:hover{
-  color: yellow;
+  color: rgb(61, 68, 4);
   text-decoration: underline;
 }
+
+
 .logotext{
   font-family: 'Love Ya Like A Sister', cursive;
   font-weight: bolder;

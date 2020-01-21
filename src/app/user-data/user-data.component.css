@@ -1,9 +1,9 @@
 
-.jumbotron{
+/* .jumbotron{
   background-image: url("../../assets/bg.gif");
   background-size: cover;
   background-repeat: no-repeat;
-}
+} */
 .jumbotron{
   border-radius: 0;
 }
