@@ -1,9 +1,4 @@
 
-/* .jumbotron{
-  background-image: url("../../assets/bg.gif");
-  background-size: cover;
-  background-repeat: no-repeat;
-} */
 .jumbotron{
   border-radius: 0;
 }
@@ -35,7 +30,7 @@
 }
 .gsearch{
   font-size: 60px;
-  color: orange;
+  color: rgb(105, 122, 5);
   margin-top: 20px;
   margin-bottom: 40px;
   font-family: 'Love Ya Like A Sister', cursive;
@@ -47,7 +42,7 @@
   color: white;
 }
 #fa-love{
-  color: red;
+  color: rgb(207, 161, 161);
   opacity: 0.7;
 }
 .fa{
