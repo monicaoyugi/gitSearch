@@ -10,7 +10,7 @@ import { UserRepoListComponent } from './user-repo-list/user-repo-list.component
 import {FormsModule} from '@angular/forms';
 import {HttpClientModule} from '@angular/common/http';
 import { NotFoundComponent } from './not-found/not-found.component';
-import { DatepipePipe } from './datepipe.pipe';
+import { DatePipe } from './date-pipe';
 import { LogoHighlightDirective } from './logo-highlight.directive';
 
 @NgModule({
@@ -21,7 +21,7 @@ import { LogoHighlightDirective } from './logo-highlight.directive';
     SearchUserComponent,
     UserRepoListComponent,
     NotFoundComponent,
-    DatepipePipe,
+    DatePipe,
     LogoHighlightDirective
   ],
   imports: [
