@@ -40,3 +40,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## License 
 [License] (License) 
 
+## Codebeat
+
+[![codebeat badge](https://codebeat.co/badges/3c7661e8-bb2b-49fe-9efb-d0270755bb27)](https://codebeat.co/projects/github-com-monicaoyugi-gitsearch-master)
+
