@@ -7,13 +7,9 @@
 }
 .jumbotron{
   border-radius: 0;
-  background-color: #172b4d;
+  background:  darkcyan;
 }
 
-.card-footer{
-  background-color: white;
-  color: black;
-}
 .repo-number{
   font-size: 25px;
   font-weight: lighter;
