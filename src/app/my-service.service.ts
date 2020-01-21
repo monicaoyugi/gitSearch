@@ -14,6 +14,7 @@ export class MyServiceService {
   token = '?access_token=3cbbddb991c02e7d5a2f0fd4224f9267a5153e5f';
 
   constructor(private http: HttpClient) {
+    this
   }
 
   searchMyUser(searchTerm: string) {
@@ -23,6 +24,11 @@ export class MyServiceService {
       following: string;
       followers: string;
       public_repos: string;
+      bio: string;
+      name: string;
+      company: string;
+      location: string;
+      created_at: Date;
     }
 
     return new Promise((resolve, reject) => {
